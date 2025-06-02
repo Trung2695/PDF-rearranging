@@ -2,7 +2,9 @@
 To reorder the pdfs when you can only scan 1 side in bulk and your paperwork is double sided (or for worse situations)
 
 This code requires the [pypdf package](https://pypdf.readthedocs.io/en/stable/user/installation.html)
+
 In the terminal `pip install pypdf`
+
 The package, in turn, requires Python 3.8+
 
 The program works by receiving user input on the order of the pages (pages can be repeated).
